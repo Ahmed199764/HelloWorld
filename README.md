@@ -1,5 +1,5 @@
-#Hello World !
-###i did read :-
+# Hello World !
+### i did read :-
 1. running the git remote
 2. using git remote -v
 3. Adding Remotes

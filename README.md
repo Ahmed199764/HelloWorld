@@ -15,6 +15,7 @@ User Interface | Themes
 ------------ | -------------
 [UI](https://code.visualstudio.com/docs/getstarted/userinterface) | [Themes](https://code.visualstudio.com/docs/getstarted/themes)
 
+## This exercie teached me how edit my code from my desktop then push it into git hub.
 
 
 

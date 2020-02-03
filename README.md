@@ -6,4 +6,8 @@
 4. fetch & Push
 5. Rename/Removing remotes
 
+Iam typing from VS right now !
+
+
+
 

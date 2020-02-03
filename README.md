@@ -8,6 +8,15 @@
 
 Iam typing from VS right now !
 
+### Intro to VS!
+"Tips and Tricks" lets you jump right in and learn how to be productive with Visual Studio Code. You'll become familiar with its powerful editing, code intelligence, and source code control features and learn useful keyboard shortcuts.
+
+User Interface | Themes
+------------ | -------------
+[UI](https://code.visualstudio.com/docs/getstarted/userinterface) | [Themes](https://code.visualstudio.com/docs/getstarted/themes)
+
+
+
 
 
 

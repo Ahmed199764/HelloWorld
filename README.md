@@ -12,7 +12,7 @@ page num | Contant
 5 | using git remote -v
 6 | Adding Remotes
 7 | fetch & Push
-8  Rename/Removing remotes
+8 | Rename/Removing remotes
 
 
 User Interface | Themes

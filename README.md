@@ -1,10 +1,4 @@
 # Introducation
-### i did read :-
-1. running the git remote
-2. using git remote -v
-3. Adding Remotes
-4. fetch & Push
-5. Rename/Removing remotes
 
 ## Table Of Contant
 page num| Contant
@@ -12,6 +6,12 @@ page num| Contant
 1            | Home
 2            | Contant
 3            | About Us
+4            | running the git remote
+5            | using git remote -v
+6            | Adding Remotes
+7            | fetch & Push
+8            | Rename/Removing remotes
+
 
 
 ### Intro to VS!

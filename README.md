@@ -18,7 +18,7 @@ you have made changes on the data but still you didnt commit it
 3.Staged
 the statues will be change.
 
-##Cloning
+## Cloning
 create a new copy of a Git repository.
 the santax is :
 git clone https://github.com/test

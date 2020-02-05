@@ -1,4 +1,5 @@
 # Introducation
+"Tips and Tricks" lets you jump right in and learn how to be productive with Visual Studio Code. You'll become familiar with its powerful editing, code intelligence, and source code control features and learn useful keyboard shortcuts.
 
 ## Table Of Contant
 page num| Contant
@@ -12,10 +13,6 @@ page num| Contant
 7| fetch & Push
 8| Rename/Removing remotes
 
-
-
-### Intro to VS!
-"Tips and Tricks" lets you jump right in and learn how to be productive with Visual Studio Code. You'll become familiar with its powerful editing, code intelligence, and source code control features and learn useful keyboard shortcuts.
 
 User Interface | Themes
 ------------ | -------------

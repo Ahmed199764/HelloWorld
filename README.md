@@ -3,14 +3,14 @@
 ## Table Of Contant
 page num| Contant
 ------------ | -------------
-1            | Home
-2            | Contant
-3            | About Us
-4            | running the git remote
-5            | using git remote -v
-6            | Adding Remotes
-7            | fetch & Push
-8            | Rename/Removing remotes
+1| Home
+2| Contant
+3| About Us
+4| running the git remote
+5| using git remote -v
+6| Adding Remotes
+7| fetch & Push
+8| Rename/Removing remotes
 
 
 
